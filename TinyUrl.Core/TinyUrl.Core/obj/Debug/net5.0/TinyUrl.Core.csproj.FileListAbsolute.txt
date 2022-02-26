@@ -1,0 +1,5 @@
+E:\m\backup\TinyUrl\TinyUrl.Core\TinyUrl.Core\obj\Debug\net5.0\TinyUrl.Core.csproj.AssemblyReference.cache
+E:\m\backup\TinyUrl\TinyUrl.Core\TinyUrl.Core\obj\Debug\net5.0\TinyUrl.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\m\backup\TinyUrl\TinyUrl.Core\TinyUrl.Core\obj\Debug\net5.0\TinyUrl.Core.AssemblyInfoInputs.cache
+E:\m\backup\TinyUrl\TinyUrl.Core\TinyUrl.Core\obj\Debug\net5.0\TinyUrl.Core.AssemblyInfo.cs
+E:\m\backup\TinyUrl\TinyUrl.Core\TinyUrl.Core\obj\Debug\net5.0\TinyUrl.Core.csproj.CoreCompileInputs.cache
